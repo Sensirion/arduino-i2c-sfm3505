@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SensirionI2cSfm3505	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+readAllMeasurementData	KEYWORD2
+readAllMeasurementDataNoFloat	KEYWORD2
+readAirMeasurementData	KEYWORD2
+readAirMeasurementDataNoFloat	KEYWORD2
+startContinuousMeasurement	KEYWORD2
+startContinuousMeasurementWithFilter	KEYWORD2
+readAllMeasurementDataRaw	KEYWORD2
+readAirMeasurementDataRaw	KEYWORD2
+stopContinuousMeasurement	KEYWORD2
+configureAveraging	KEYWORD2
+readProductIdentifier	KEYWORD2
+signalAirFlow	KEYWORD2
+signalO2Flow	KEYWORD2
+signalO2FlowRaw	KEYWORD2
+signalAirFlowRaw	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+sensor	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
